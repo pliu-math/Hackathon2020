@@ -32,6 +32,8 @@ new data sources!
 
 [Patrick Tung's translated data](https://towardsdatascience.com/an-r-package-to-explore-the-novel-coronavirus-590055738ad6). Blog detailing an English translation of Guangchuang Yu's (a professor of bioinformatics at Southern Medical University) R package, which includes current case counts from tencent data. This is a very new package, and we have not seen any preprints using this data yet, but it seems to be very up to date (at my last check, the data had been updated 10 minutes previously). Contains cases by country, by Chinese province and by Chinese city, which can be displayed cumulatively or by day. 
 
+[DXY.cn real-time data](https://github.com/BlankerL/DXY-COVID-19-Data/blob/master/csv/DXYArea.csv). DXY.cn is a Chinese online community for physicians, health care professionals, pharmacies and facilities. The data collected by [Isaac Lin](https://github.com/BlankerL) include real-time Chinease provicial and city counts of confirmed, cured and dead cases.
+
 ### Travel data
 
 [Tencent’s LBS (location-based services) database](https://heat.qq.com/). The daily number of Chinese domestic passengers by means of air, train and road transportation, recorded by Tencent’s LBS database. Used in the Wu et al analysis. **However** this website is written in Chinese! If anyone is willing to translate and extract the data this would be excellent.  
